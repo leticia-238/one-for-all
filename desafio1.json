@@ -3,7 +3,7 @@
   "coluna_plano": "plan_type",
   "tabela_que_contem_usuario": "users",
   "coluna_usuario": "user_name",
-  "tabela_que_contem_historico_de_reproducoes": "playback_history",
+  "tabela_que_contem_historico_de_reproducoes": "history",
   "coluna_historico_de_reproducoes": "history_date",
   "tabela_que_contem_cancoes": "songs",
   "coluna_cancoes": "song_name",
