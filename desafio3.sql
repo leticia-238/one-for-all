@@ -20,4 +20,4 @@ INNER JOIN
 		GROUP BY user_id
 	) AS songs_duration
 ON users.user_id = songs_duration.user_id
-order by usuario asc;
+ORDER BY usuario ASC;
